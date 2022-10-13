@@ -1,4 +1,4 @@
-let a;
+
 let personaje= {
     nombre: '',
     vida: 10,
